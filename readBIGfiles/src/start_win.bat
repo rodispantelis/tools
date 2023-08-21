@@ -1,0 +1,1 @@
+wscript.exe "jar\supress.vbs" "jar\run.bat"
